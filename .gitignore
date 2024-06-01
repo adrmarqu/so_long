@@ -1,0 +1,9 @@
+.
+..
+.DS_Store
+a.out
+so_long
+data.txt
+*.o
+*.a
+*.swp
